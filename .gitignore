@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+.idea/
